@@ -1,0 +1,1792 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "cnjd_cloth_001": {
+        "31001000001": {
+          "tracking_number": "JDWL31001000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 1",
+            "recipient_phone": "13900010001",
+            "recipient_address": "No. 1 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31001000002": {
+          "tracking_number": "JDWL31001000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 1",
+            "recipient_phone": "13900010001",
+            "recipient_address": "No. 1 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31001000003": {
+          "tracking_number": "JDWL31001000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 1",
+            "recipient_phone": "13900010001",
+            "recipient_address": "No. 1 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_002": {
+        "31002000001": {
+          "tracking_number": "JDWL31002000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 2",
+            "recipient_phone": "13900010002",
+            "recipient_address": "2 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31002000002": {
+          "tracking_number": "JDWL31002000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 2",
+            "recipient_phone": "13900010002",
+            "recipient_address": "2 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31002000003": {
+          "tracking_number": "JDWL31002000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Clothing user 2",
+            "recipient_phone": "13900010002",
+            "recipient_address": "2 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_003": {
+        "31003000001": {
+          "tracking_number": "JDWL31003000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 3",
+            "recipient_phone": "13900010003",
+            "recipient_address": "No. 3 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31003000002": {
+          "tracking_number": "JDWL31003000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 3",
+            "recipient_phone": "13900010003",
+            "recipient_address": "No. 3 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31003000003": {
+          "tracking_number": "JDWL31003000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 3",
+            "recipient_phone": "13900010003",
+            "recipient_address": "No. 3 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_004": {
+        "31004000001": {
+          "tracking_number": "JDWL31004000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Clothing user 4",
+            "recipient_phone": "13900010004",
+            "recipient_address": "4 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "31004000002": {
+          "tracking_number": "JDWL31004000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 4",
+            "recipient_phone": "13900010004",
+            "recipient_address": "4 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31004000003": {
+          "tracking_number": "JDWL31004000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Clothing user 4",
+            "recipient_phone": "13900010004",
+            "recipient_address": "4 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_005": {
+        "31005000001": {
+          "tracking_number": "JDWL31005000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Apparel User 5",
+            "recipient_phone": "13900010005",
+            "recipient_address": "No. 5 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31005000002": {
+          "tracking_number": "JDWL31005000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Apparel User 5",
+            "recipient_phone": "13900010005",
+            "recipient_address": "No. 5 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "31005000003": {
+          "tracking_number": "JDWL31005000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Apparel User 5",
+            "recipient_phone": "13900010005",
+            "recipient_address": "No. 5 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_006": {
+        "31006000001": {
+          "tracking_number": "JDWL31006000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Clothing user 6",
+            "recipient_phone": "13900010006",
+            "recipient_address": "6 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "31006000002": {
+          "tracking_number": "JDWL31006000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Clothing user 6",
+            "recipient_phone": "13900010006",
+            "recipient_address": "6 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "31006000003": {
+          "tracking_number": "JDWL31006000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 6",
+            "recipient_phone": "13900010006",
+            "recipient_address": "6 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_007": {
+        "31007000001": {
+          "tracking_number": "JDWL31007000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 7",
+            "recipient_phone": "13900010007",
+            "recipient_address": "No. 7 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31007000002": {
+          "tracking_number": "JDWL31007000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 7",
+            "recipient_phone": "13900010007",
+            "recipient_address": "No. 7 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31007000003": {
+          "tracking_number": "JDWL31007000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 7",
+            "recipient_phone": "13900010007",
+            "recipient_address": "No. 7 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_008": {
+        "31008000001": {
+          "tracking_number": "JDWL31008000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 8",
+            "recipient_phone": "13900010008",
+            "recipient_address": "8 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31008000002": {
+          "tracking_number": "JDWL31008000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 8",
+            "recipient_phone": "13900010008",
+            "recipient_address": "8 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31008000003": {
+          "tracking_number": "JDWL31008000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 8",
+            "recipient_phone": "13900010008",
+            "recipient_address": "8 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_009": {
+        "31009000001": {
+          "tracking_number": "JDWL31009000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Apparel User 9",
+            "recipient_phone": "13900010009",
+            "recipient_address": "No. 9 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31009000002": {
+          "tracking_number": "JDWL31009000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Apparel User 9",
+            "recipient_phone": "13900010009",
+            "recipient_address": "No. 9 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31009000003": {
+          "tracking_number": "JDWL31009000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Apparel User 9",
+            "recipient_phone": "13900010009",
+            "recipient_address": "No. 9 Jinxiu Road, Pudong New Area, Shanghai, Shanghai"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_cloth_010": {
+        "31010000001": {
+          "tracking_number": "JDWL31010000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 10",
+            "recipient_phone": "13900010010",
+            "recipient_address": "10 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "31010000002": {
+          "tracking_number": "JDWL31010000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Clothing user 10",
+            "recipient_phone": "13900010010",
+            "recipient_address": "10 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "31010000003": {
+          "tracking_number": "JDWL31010000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Clothing user 10",
+            "recipient_phone": "13900010010",
+            "recipient_address": "10 Jinxiu Road, Chaoyang District, Beijing"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_food_001": {
+        "32011000001": {
+          "tracking_number": "JDWL32011000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 1",
+            "recipient_phone": "13800020001",
+            "recipient_address": "1 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32011000002": {
+          "tracking_number": "JDWL32011000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 1",
+            "recipient_phone": "13800020001",
+            "recipient_address": "1 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32011000003": {
+          "tracking_number": "JDWL32011000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 1",
+            "recipient_phone": "13800020001",
+            "recipient_address": "1 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        }
+      },
+      "cnjd_food_002": {
+        "32012000001": {
+          "tracking_number": "JDWL32012000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 2",
+            "recipient_phone": "13800020002",
+            "recipient_address": "2 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32012000002": {
+          "tracking_number": "JDWL32012000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 2",
+            "recipient_phone": "13800020002",
+            "recipient_address": "2 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32012000003": {
+          "tracking_number": "JDWL32012000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 2",
+            "recipient_phone": "13800020002",
+            "recipient_address": "2 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        }
+      },
+      "cnjd_food_003": {
+        "32013000001": {
+          "tracking_number": "JDWL32013000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 3",
+            "recipient_phone": "13800020003",
+            "recipient_address": "3 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32013000002": {
+          "tracking_number": "JDWL32013000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 3",
+            "recipient_phone": "13800020003",
+            "recipient_address": "3 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32013000003": {
+          "tracking_number": "JDWL32013000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 3",
+            "recipient_phone": "13800020003",
+            "recipient_address": "3 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_food_004": {
+        "32014000001": {
+          "tracking_number": "JDWL32014000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 4",
+            "recipient_phone": "13800020004",
+            "recipient_address": "4 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32014000002": {
+          "tracking_number": "JDWL32014000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 4",
+            "recipient_phone": "13800020004",
+            "recipient_address": "4 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32014000003": {
+          "tracking_number": "JDWL32014000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 4",
+            "recipient_phone": "13800020004",
+            "recipient_address": "4 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_food_005": {
+        "32015000001": {
+          "tracking_number": "JDWL32015000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food User 5",
+            "recipient_phone": "13800020005",
+            "recipient_address": "5 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32015000002": {
+          "tracking_number": "JDWL32015000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food User 5",
+            "recipient_phone": "13800020005",
+            "recipient_address": "5 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32015000003": {
+          "tracking_number": "JDWL32015000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food User 5",
+            "recipient_phone": "13800020005",
+            "recipient_address": "5 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_food_006": {
+        "32016000001": {
+          "tracking_number": "JDWL32016000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 6",
+            "recipient_phone": "13800020006",
+            "recipient_address": "6 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32016000002": {
+          "tracking_number": "JDWL32016000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 6",
+            "recipient_phone": "13800020006",
+            "recipient_address": "6 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32016000003": {
+          "tracking_number": "JDWL32016000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 6",
+            "recipient_phone": "13800020006",
+            "recipient_address": "6 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        }
+      },
+      "cnjd_food_007": {
+        "32017000001": {
+          "tracking_number": "JDWL32017000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 7",
+            "recipient_phone": "13800020007",
+            "recipient_address": "7 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32017000002": {
+          "tracking_number": "JDWL32017000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 7",
+            "recipient_phone": "13800020007",
+            "recipient_address": "7 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32017000003": {
+          "tracking_number": "JDWL32017000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 7",
+            "recipient_phone": "13800020007",
+            "recipient_address": "7 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_food_008": {
+        "32018000001": {
+          "tracking_number": "JDWL32018000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 8",
+            "recipient_phone": "13800020008",
+            "recipient_address": "8 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32018000002": {
+          "tracking_number": "JDWL32018000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 8",
+            "recipient_phone": "13800020008",
+            "recipient_address": "8 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32018000003": {
+          "tracking_number": "JDWL32018000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 8",
+            "recipient_phone": "13800020008",
+            "recipient_address": "8 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        }
+      },
+      "cnjd_food_009": {
+        "32019000001": {
+          "tracking_number": "JDWL32019000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 9",
+            "recipient_phone": "13800020009",
+            "recipient_address": "9 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        },
+        "32019000002": {
+          "tracking_number": "JDWL32019000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food user 9",
+            "recipient_phone": "13800020009",
+            "recipient_address": "9 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32019000003": {
+          "tracking_number": "JDWL32019000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food user 9",
+            "recipient_phone": "13800020009",
+            "recipient_address": "9 Meishi Road, High-tech Zone, Chengdu, Sichuan Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      },
+      "cnjd_food_010": {
+        "32020000001": {
+          "tracking_number": "JDWL32020000001",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food User 10",
+            "recipient_phone": "13800020010",
+            "recipient_address": "10 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32020000002": {
+          "tracking_number": "JDWL32020000002",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "2026-04-22 16:40:00",
+          "recipient_info": {
+            "recipient_name": "Food User 10",
+            "recipient_phone": "13800020010",
+            "recipient_address": "10 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-22 16:40:00",
+              "status": "signed",
+              "location": "Destination station",
+              "description": "signed",
+              "operator": "Courier"
+            }
+          ]
+        },
+        "32020000003": {
+          "tracking_number": "JDWL32020000003",
+          "carrier": "jd_logistics",
+          "estimated_delivery_time": "2026-04-22 20:00:00",
+          "actual_delivery_time": "",
+          "recipient_info": {
+            "recipient_name": "Food User 10",
+            "recipient_phone": "13800020010",
+            "recipient_address": "10 Meishi Road, Hongshan District, Wuhan, Hubei Province"
+          },
+          "tracking_trace": [
+            {
+              "time": "2026-04-20 09:10:00",
+              "status": "collected",
+              "location": "Origin distribution center",
+              "description": "Package collected",
+              "operator": "System"
+            },
+            {
+              "time": "2026-04-21 11:25:00",
+              "status": "in_transit",
+              "location": "Line-haul transport",
+              "description": "Package in transit",
+              "operator": "System"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "cnjd_user_05": {
+    "user_id": "cnjd_user_05",
+    "phone_number": "15540534614",
+    "user_name": "Song Jingming",
+    "gender": "male",
+    "age": 35,
+    "ecard_balance": 5500,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Jieyang",
+      "district": "Raoping County",
+      "street_address": "No. 231 Zhongshan North Road"
+    }
+  },
+  "cnjd_user_01": {
+    "user_id": "cnjd_user_01",
+    "phone_number": "11213348266",
+    "user_name": "Cao Rouhui",
+    "gender": "female",
+    "age": 22,
+    "ecard_balance": 3200,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan Province",
+      "city": "Chengdu",
+      "district": "Wuhou District",
+      "street_address": "15th Floor, North Tower, Libao Building, 62 Kehua North Road"
+    }
+  },
+  "cnjdwdnipzaorvgkymr": {
+    "user_id": "cnjdwdnipzaorvgkymr",
+    "phone_number": "12810332319",
+    "user_name": "Peng Muqing",
+    "gender": "male",
+    "age": 35,
+    "ecard_balance": 3000,
+    "address_info": {
+      "country": "China",
+      "province": "Jiangsu Province",
+      "city": "Nanjing",
+      "district": "Jiangning District",
+      "street_address": "1 Tianyuan West Road"
+    }
+  },
+  "cnjdhxn1024301170": {
+    "user_id": "cnjdhxn1024301170",
+    "phone_number": "13812345678",
+    "user_name": "Han Xiaoning",
+    "gender": "female",
+    "age": 28,
+    "ecard_balance": 120,
+    "address_info": {
+      "country": "China",
+      "province": "Jiangsu Province",
+      "city": "Nanjing",
+      "district": "Gulou District",
+      "street_address": "Room 1503, Building B, Jinling Mansion, No. 100 Zhongshan North Road"
+    }
+  },
+  "cnjd_user_11": {
+    "user_id": "cnjd_user_11",
+    "phone_number": "18941352934",
+    "user_name": "Dai Qingyun",
+    "gender": "female",
+    "age": 35,
+    "ecard_balance": 2200,
+    "address_info": {
+      "country": "China",
+      "province": "Jiangsu Province",
+      "city": "Nanjing",
+      "district": "Jiangning District",
+      "street_address": "123 Tianyuan East Road, Jiangning District"
+    }
+  },
+  "cnjd18700806944_p": {
+    "user_id": "cnjd18700806944_p",
+    "phone_number": "18700806944",
+    "user_name": "Lin Moyang",
+    "gender": "male",
+    "age": 35,
+    "ecard_balance": 1560,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Shenzhen",
+      "district": "Nanshan District",
+      "street_address": "Building A, Chuangxin Mansion, 88 Kejiyuan Road"
+    }
+  },
+  "cnjd18463287301_p": {
+    "user_id": "cnjd18463287301_p",
+    "phone_number": "10080895692",
+    "user_name": "Pan Wanqiu",
+    "gender": "male",
+    "age": 23,
+    "ecard_balance": 3200,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "15th Floor, China Overseas Plaza Office Building, 8 Guanghua Road"
+    }
+  },
+  "cnjd_user_03": {
+    "user_id": "cnjd_user_03",
+    "phone_number": "14376833708",
+    "user_name": "Liao Linglu",
+    "gender": "female",
+    "age": 35,
+    "ecard_balance": 3000,
+    "address_info": {
+      "country": "China",
+      "province": "Tianjin",
+      "city": "Tianjin",
+      "district": "Hexi District",
+      "street_address": "32 Youyi Road"
+    }
+  },
+  "cnjd2235243611_m": {
+    "user_id": "cnjd2235243611_m",
+    "phone_number": "18710382968",
+    "user_name": "Liu Xiaoxiang",
+    "gender": "male",
+    "age": 30,
+    "ecard_balance": 2000,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Shenzhen",
+      "district": "Futian District",
+      "street_address": "Excellence Century Center, Fuhua 3rd Road"
+    }
+  },
+  "cnjdwdwlbgefqhbifv": {
+    "user_id": "cnjdwdwlbgefqhbifv",
+    "phone_number": "18606368867",
+    "user_name": "Hou Caiwei",
+    "gender": "female",
+    "age": 32,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Shandong Province",
+      "city": "Weifang",
+      "district": "Weicheng District",
+      "street_address": "Placeholder address; please replace it with the actual delivery address"
+    }
+  },
+  "cnjd_user_08": {
+    "user_id": "cnjd_user_08",
+    "phone_number": "13185436225",
+    "user_name": "Lin Yunpei",
+    "gender": "female",
+    "age": 30,
+    "ecard_balance": 12750,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Guangzhou",
+      "district": "Tianhe District",
+      "street_address": "10 Tianhe Road"
+    }
+  },
+  "cnjdjd_5cbbac22e35b4": {
+    "user_id": "cnjdjd_5cbbac22e35b4",
+    "phone_number": "11228504509",
+    "user_name": "Yu Xijue",
+    "gender": "male",
+    "age": 35,
+    "ecard_balance": 500,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Guangzhou",
+      "district": "Tianhe District",
+      "street_address": "3 Tianhe North Road"
+    }
+  },
+  "cnjd_user_10": {
+    "user_id": "cnjd_user_10",
+    "phone_number": "18486005228",
+    "user_name": "Qin Jiming",
+    "gender": "male",
+    "age": 30,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Zhejiang Province",
+      "city": "Hangzhou",
+      "district": "Xihu District",
+      "street_address": "1 Wen'er West Road"
+    }
+  },
+  "cnjd_user_04": {
+    "user_id": "cnjd_user_04",
+    "phone_number": "19882212862",
+    "user_name": "Chang Huaijin",
+    "gender": "male",
+    "age": 30,
+    "ecard_balance": 2310,
+    "address_info": {
+      "country": "China",
+      "province": "Hunan Province",
+      "city": "Changsha",
+      "district": "Yuelu District",
+      "street_address": "Building 5, Xincheng Science and Technology Park, 668 Lugu Avenue"
+    }
+  },
+  "cnjd_user_07": {
+    "user_id": "cnjd_user_07",
+    "phone_number": "10747265324",
+    "user_name": "Zeng Wanyan",
+    "gender": "female",
+    "age": 30,
+    "ecard_balance": 2000,
+    "address_info": {
+      "country": "China",
+      "province": "Hubei Province",
+      "city": "Wuhan",
+      "district": "Wuchang District",
+      "street_address": "No. 156 Zhongbei Road"
+    }
+  },
+  "cnjd_user_02": {
+    "user_id": "cnjd_user_02",
+    "phone_number": "14529231388",
+    "user_name": "Chang Jinghao",
+    "gender": "male",
+    "age": 35,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Jiangsu Province",
+      "city": "Nanjing",
+      "district": "Jiangning District",
+      "street_address": "123 Baijiahu Avenue"
+    }
+  },
+  "cnjdjd_7271809d790f9": {
+    "user_id": "cnjdjd_7271809d790f9",
+    "phone_number": "17325959911",
+    "user_name": "Huang Qionghua",
+    "gender": "female",
+    "age": 30,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Guangzhou",
+      "district": "Haizhu District",
+      "street_address": "Building 1, 84 Jude Road"
+    }
+  },
+  "cnjdjingjing20143": {
+    "user_id": "cnjdjingjing20143",
+    "phone_number": "14398817152",
+    "user_name": "Gong Qiongju",
+    "gender": "male",
+    "age": 30,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Guangzhou",
+      "district": "Haizhu District",
+      "street_address": "1 Jiangnan West Road, Haizhu District"
+    }
+  },
+  "cnjdjd_7195a1c8b03af": {
+    "user_id": "cnjdjd_7195a1c8b03af",
+    "phone_number": "10291508784",
+    "user_name": "Liao Qionghua",
+    "gender": "female",
+    "age": 35,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Shenzhen",
+      "district": "Futian District",
+      "street_address": "Xingfu Residential Compound, 123 Futian Road"
+    }
+  },
+  "cnjdzhongx520970": {
+    "user_id": "cnjdzhongx520970",
+    "phone_number": "19384718873",
+    "user_name": "Sun Yunwen",
+    "gender": "male",
+    "age": 35,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "3000 Longdong Avenue, Zhangjiang High-Tech Park"
+    }
+  },
+  "cnjd13501206383_p": {
+    "user_id": "cnjd13501206383_p",
+    "phone_number": "11219365701",
+    "user_name": "Meng Wenyin",
+    "gender": "female",
+    "age": 28,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Guangzhou",
+      "district": "Tianhe District",
+      "street_address": "64 Tiyu East Road, Tianhe District"
+    }
+  },
+  "cnjd_user_06": {
+    "user_id": "cnjd_user_06",
+    "phone_number": "10747265324",
+    "user_name": "Zeng Wanqing",
+    "gender": "female",
+    "age": 30,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong Province",
+      "city": "Shenzhen",
+      "district": "Nanshan District",
+      "street_address": "No. 3 Yuquan Road, Liancheng Community, Nantou Subdistrict"
+    }
+  },
+  "cnjd24271992-814348": {
+    "user_id": "cnjd24271992-814348",
+    "phone_number": "12149920890",
+    "user_name": "Yu Qiongju",
+    "gender": "female",
+    "age": 35,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "50 Software Park Road, Zhangjiang High-Tech Park"
+    }
+  },
+  "cnjdbelieve_yx_m": {
+    "user_id": "cnjdbelieve_yx_m",
+    "phone_number": "13556729880",
+    "user_name": "Song Yiran",
+    "gender": "male",
+    "age": 30,
+    "ecard_balance": 0,
+    "address_info": {
+      "country": "China",
+      "province": "Jiangsu Province",
+      "city": "Nanjing",
+      "district": "Xuanwu District",
+      "street_address": "1 Zhujiang Road"
+    }
+  },
+  "cnjd_user_09": {
+    "user_id": "cnjd_user_09",
+    "phone_number": "15135362990",
+    "user_name": "Kang Qingyang",
+    "gender": "male",
+    "age": 26,
+    "ecard_balance": 3500,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "Courtyard 54, East 3rd Ring South Road, Chaoyang District, Beijing"
+    }
+  },
+  "cnjd13330062133_p": {
+    "user_id": "cnjd13330062133_p",
+    "phone_number": "12167384313",
+    "user_name": "Wu Qiaoyan",
+    "gender": "female",
+    "age": 35,
+    "ecard_balance": 3000,
+    "address_info": {
+      "country": "China",
+      "province": "Zhejiang Province",
+      "city": "Hangzhou",
+      "district": "Xihu District",
+      "street_address": "No. 866 Yuhangtang Road"
+    }
+  },
+  "cnjdjd_66ea38a7829e1": {
+    "user_id": "cnjdjd_66ea38a7829e1",
+    "phone_number": "18305729932",
+    "user_name": "Sun Yiran",
+    "gender": "male",
+    "age": 28,
+    "ecard_balance": 5000,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan",
+      "city": "Chengdu",
+      "district": "Wuhou District",
+      "street_address": "1147 Julong Road, next to the Wuhou Interchange"
+    }
+  },
+  "cnjdjd_fvfvqajwvbaj": {
+    "user_id": "cnjdjd_fvfvqajwvbaj",
+    "phone_number": "15923456789",
+    "user_name": "Li Yutong",
+    "gender": "female",
+    "age": 32,
+    "ecard_balance": 7200,
+    "address_info": {
+      "country": "China",
+      "province": "Guangdong",
+      "city": "Shenzhen",
+      "district": "Nanshan District",
+      "street_address": "1234 Kejiyuan Road"
+    }
+  }
+}

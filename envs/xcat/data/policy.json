@@ -1,0 +1,23 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "apparel_policy": [
+        "7-day no-reason returns and exchanges (tag intact and resale condition unaffected)",
+        "No reason-based returns or exchanges after the tag is removed unless there is a quality issue",
+        "If the size does not fit, apply for an exchange first",
+        "If out of stock, exchange for an in-stock item at the same price; any price difference is refunded or charged"
+      ],
+      "food_policy": [
+        "Shelf-stable food supports after-sales service for quality issues within the shelf life",
+        "For cold-chain and fresh items, only quality issues are eligible for after-sales service after receipt",
+        "Compensation is available under the rules for items that are near expiry, leaking or spoiled",
+        "Unclear allergen labeling can be escalated to a specialist"
+      ],
+      "general_policy": [
+        "Invoices support individual, corporate and VAT special invoices (subject to qualification)",
+        "Coupons and promotion rules are subject to the checkout page",
+        "Logistics abnormalities may be escalated to a specialist"
+      ]
+    }
+  }
+}

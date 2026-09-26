@@ -1,0 +1,132 @@
+{
+  "name": "story-3fold-s10",
+  "env": "story",
+  "num_tasks": 53,
+  "k": 3,
+  "seed": 10,
+  "stratify": "shape",
+  "description": "3-fold cross-validation split for story. stratify=shape (shape = stratified by the actions+searches+outputs checkpoint shape), seed=10. Round i: grow the experience library on the other 2 folds and evaluate only on fold i.",
+  "generated_by": "python scripts/make_folds.py --env story --k 3 --seed 10 --stratify shape --out folds/story_3fold_seed10.json",
+  "folds": {
+    "fold1": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      8,
+      20,
+      22,
+      26,
+      28,
+      32,
+      34,
+      36,
+      37,
+      41,
+      47,
+      49,
+      51
+    ],
+    "fold2": [
+      5,
+      10,
+      14,
+      16,
+      17,
+      21,
+      24,
+      25,
+      30,
+      31,
+      35,
+      39,
+      40,
+      42,
+      43,
+      45,
+      46,
+      48
+    ],
+    "fold3": [
+      6,
+      7,
+      9,
+      11,
+      12,
+      13,
+      15,
+      18,
+      19,
+      23,
+      27,
+      29,
+      33,
+      38,
+      44,
+      50,
+      52
+    ]
+  },
+  "fold_stats": {
+    "fold1": {
+      "size": 18,
+      "actions": 37,
+      "searches": 36,
+      "outputs": 2,
+      "checkpoints": 75
+    },
+    "fold2": {
+      "size": 18,
+      "actions": 40,
+      "searches": 33,
+      "outputs": 1,
+      "checkpoints": 74
+    },
+    "fold3": {
+      "size": 17,
+      "actions": 38,
+      "searches": 31,
+      "outputs": 4,
+      "checkpoints": 73
+    }
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "grow": [
+        "fold2",
+        "fold3"
+      ],
+      "test": [
+        "fold1"
+      ],
+      "grow_size": 35,
+      "test_size": 18
+    },
+    {
+      "round": 2,
+      "grow": [
+        "fold1",
+        "fold3"
+      ],
+      "test": [
+        "fold2"
+      ],
+      "grow_size": 35,
+      "test_size": 18
+    },
+    {
+      "round": 3,
+      "grow": [
+        "fold1",
+        "fold2"
+      ],
+      "test": [
+        "fold3"
+      ],
+      "grow_size": 36,
+      "test_size": 17
+    }
+  ]
+}

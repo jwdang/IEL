@@ -1,0 +1,1014 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "100910000001": {
+        "product_id": "100910000001",
+        "product_name": "JD JingZao pure cotton crew-neck short-sleeve T-shirt, men's, white, size M",
+        "product_status": "listed",
+        "product_price": 99.0,
+        "product_description": "The fabric is 40-count combed cotton with a weight of about 210g and a standard, slightly fitted cut; the color is basic white, suitable for spring and summer commuting and everyday wear. Choose your usual size, or half a size up for situations involving sweating. Machine washable; wash inside out in cold water and avoid high-temperature tumble drying. With the tag intact and resale condition unaffected, it qualifies for the 7-day no-reason return policy.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000002",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000002": {
+        "product_id": "100910000002",
+        "product_name": "JD JingZao pure cotton crew-neck short-sleeve T-shirt, men's, black, size L",
+        "product_status": "listed",
+        "product_price": 99.0,
+        "product_description": "Same series, black, size L; the fabric is the same as the white version, and the shoulder width and length suit a looser fit. Black batches vary slightly in shade, which is within the normal range of the process. Suitable as a base layer in spring, summer and early autumn; wash dark and light colors separately to avoid color transfer.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000001",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000003": {
+        "product_id": "100910000003",
+        "product_name": "URBANSENSE hooded sun-protection jacket, women's, off-white, size S",
+        "product_status": "listed",
+        "product_price": 189.0,
+        "product_description": "UPF50+ sun-protective fabric, lightweight and water-repellent, cropped cut, ideal for commuting and travel. Size S suits smaller frames for layering; colour is off-white. Wash gently in cold water; do not dry in prolonged direct sunlight. When trying on, please keep the tags and original packaging.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000004",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000004": {
+        "product_id": "100910000004",
+        "product_name": "URBANSENSE hooded sun-protection jacket, women's, off-white, size M",
+        "product_status": "listed",
+        "product_price": 189.0,
+        "product_description": "The same style as size S, with a roomier shoulder width and sleeve length in size M, ideal worn over thin knitwear. The fabric is breathable with basic sun protection, suiting the switch between air-conditioned rooms and the outdoors in summer. Wash with a neutral detergent and avoid products containing bleach.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000003",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000005": {
+        "product_id": "100910000005",
+        "product_name": "Jingxuan Business Non-Iron Shirt, men's, blue, size 40",
+        "product_status": "listed",
+        "product_price": 329.0,
+        "product_description": "Cotton-blend wrinkle-free shirt, blue business version with a crisp collar, suitable for meetings and commuting. Size 40 fits a regular build with a slim cut. Recommended to machine wash separately in a laundry bag; a low-temperature iron restores a smooth finish. If the size does not fit, apply for an exchange first.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000006",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "out_of_stock"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000006": {
+        "product_id": "100910000006",
+        "product_name": "Jingxuan Business Non-Iron Shirt, men's, white, size 41",
+        "product_status": "out_of_stock",
+        "product_price": 329.0,
+        "product_description": "White business shirt, size 41, with longer sleeves and a wider chest, suitable for taller users. Stock is currently tight and restocking is slow. The white fabric is slightly sheer; a light-colored undershirt is recommended. No reason-based returns or exchanges after the tag is removed, unless there is a quality issue.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000005",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000007": {
+        "product_id": "100910000007",
+        "product_name": "Lightweight stretch straight-leg jeans, women's, dark blue, size 27",
+        "product_status": "listed",
+        "product_price": 219.0,
+        "product_description": "High-stretch straight-leg jeans, dark blue, size 27, fitting at the waist and hips with straight legs. The fabric contains a small amount of spandex, so it stays comfortable when sitting for long periods. Wash separately the first time and avoid mixing with light-colored clothing; suitable for spring and autumn commuting and everyday casual wear.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000008",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000008": {
+        "product_id": "100910000008",
+        "product_name": "Lightweight stretch straight-leg jeans, women's, dark blue, size 28",
+        "product_status": "listed",
+        "product_price": 219.0,
+        "product_description": "Same series, size 28, with a looser waist and hips, suitable for people who want to be more active. The dark blue fabric shows normal color variation after washing. Machine wash inside out and avoid direct sunlight to reduce fading and stiffening.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000007",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000009": {
+        "product_id": "100910000009",
+        "product_name": "Cloud-Touch Knitted Sweatshirt, unisex, grey, size M",
+        "product_status": "listed",
+        "product_price": 259.0,
+        "product_description": "Double-faced knit sweatshirt, gray, size M; soft to the touch with moderate thickness, suitable for wearing alone in spring and autumn. The cut is unisex and the style is the same for men and women. Wash gently below 30℃; lay flat to dry to reduce deformation.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000010",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000010": {
+        "product_id": "100910000010",
+        "product_name": "Cloud-Touch Knitted Sweatshirt, unisex, grey, size L",
+        "product_status": "listed",
+        "product_price": 259.0,
+        "product_description": "Gray sweatshirt, size L, with a larger chest and length, suitable for layering over a shirt or base layer. The fabric is skin-friendly and suits temperature differences between indoors and outdoors. When washing, keep it separate from garments with zippers to prevent snagging.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000009",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000011": {
+        "product_id": "100910000011",
+        "product_name": "Lightweight warm short down jacket, women's, apricot, size M",
+        "product_status": "listed",
+        "product_price": 699.0,
+        "product_description": "Short down jacket, apricot, size M, 90% down fill, lightweight and warm, suitable for early winter and commuting. Windproof outer layer with lofty filling. Use a down-specific detergent and tumble dry on low to restore loft; no reason-based returns after the tag is removed, unless there is a quality issue.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000012",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000012": {
+        "product_id": "100910000012",
+        "product_name": "Lightweight warm short down jacket, women's, apricot, size L",
+        "product_status": "listed",
+        "product_price": 699.0,
+        "product_description": "Same model, size L, with a longer length and a larger chest, suitable for layering over a sweater. The apricot batch shows slight color temperature variation. Avoid storing under heavy pressure, as long-term compression reduces loft.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000011",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000013": {
+        "product_id": "100910000013",
+        "product_name": "Running cushioning sneakers, men's, black and white, size 42",
+        "product_status": "listed",
+        "product_price": 459.0,
+        "product_description": "Cushioned running shoes, size 42, with a breathable mesh upper and EVA midsole, suitable for daily jogging and commuting. Standard last with a moderate forefoot fit. Clean with a dry brush and avoid soaking the whole shoe.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000014",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000014": {
+        "product_id": "100910000014",
+        "product_name": "Running cushioning sneakers, men's, black and white, size 43",
+        "product_status": "listed",
+        "product_price": 459.0,
+        "product_description": "Same model, size 43, suitable for users with a high instep or a wider forefoot. The midsole provides stable rebound and reduces impact on landing. Recommended to wear with sports socks to reduce the risk of chafing.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000013",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000015": {
+        "product_id": "100910000015",
+        "product_name": "French-style cinched-waist dress, women's, mist blue, size M",
+        "product_status": "listed",
+        "product_price": 399.0,
+        "product_description": "Mist blue cinched-waist dress, size M, with chiffon panels and a good drape, suitable for summer commuting and dates. The waist cut accentuates the figure. Hand wash and avoid snagging on sharp accessories; keep the tag on when trying it on.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000016",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000016": {
+        "product_id": "100910000016",
+        "product_name": "French-style cinched-waist dress, women's, mist blue, size L",
+        "product_status": "listed",
+        "product_price": 399.0,
+        "product_description": "Same model, size L, with a looser waist and chest for more comfortable movement. The fabric is lightweight; wear a light-colored base layer underneath. Hang to dry in the shade after washing and avoid high-temperature tumble drying.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000015",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000017": {
+        "product_id": "100910000017",
+        "product_name": "Children's pure cotton homewear set 120cm",
+        "product_status": "listed",
+        "product_price": 169.0,
+        "product_description": "Children's pure cotton homewear set 120cm, Class A fabric standard, soft and skin-friendly, suitable for spring and autumn at home. Recommended to wash separately from adult clothing using baby laundry detergent.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000018",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "delisted"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "100910000018": {
+        "product_id": "100910000018",
+        "product_name": "Children's pure cotton homewear set 130cm",
+        "product_status": "delisted",
+        "product_price": 169.0,
+        "product_description": "Children's homewear set 130cm; a larger size with longer sleeves and pants. Currently delisted, so only after-sales and alternative-item inquiries are supported; prioritize recommending in-stock sizes from the same series.",
+        "exchangeable_products": [
+          {
+            "product_id": "100910000017",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Shipping insurance",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Clothing: sizing advice, fitting and care instructions.",
+        "repair_notes": "Clothing: returns and exchanges for quality issues, and tag rules.",
+        "common_faults": [
+          {
+            "fault_code": "CLOTH-001",
+            "fault_name": "wrong_size",
+            "fault_solution": "Priority exchange"
+          }
+        ]
+      },
+      "200910000001": {
+        "product_id": "200910000001",
+        "product_name": "Three Squirrels Daily Nuts 750 g mixed nut gift box",
+        "product_status": "listed",
+        "product_price": 129.0,
+        "product_description": "Net weight 750g, 30 individually wrapped packs; ingredients include almonds, cashews and walnut kernels. Shelf life about 240 days; store in a cool, dry place. Allergen notice: tree nuts; broken packaging or moisture damage is handled under after-sales rules.",
+        "exchangeable_products": [
+          {
+            "product_id": "200910000014",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000002": {
+        "product_id": "200910000002",
+        "product_name": "Yili Satine Organic Pure Milk 250 ml × 24 cartons",
+        "product_status": "listed",
+        "product_price": 86.0,
+        "product_description": "250 ml × 24 cartons of shelf-stable whole milk; see the inkjet code on the outer carton for the production batch. Shelf life 6 months; store at room temperature away from light. Please choose with care if you are lactose intolerant.",
+        "exchangeable_products": [
+          {
+            "product_id": "200910000003",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000003": {
+        "product_id": "200910000003",
+        "product_name": "Ambrosial plain yogurt 200g × 12 cups",
+        "product_status": "listed",
+        "product_price": 79.0,
+        "product_description": "200 g × 12 cups of yogurt; requires low-temperature cold-chain delivery. Please refrigerate as soon as possible after delivery and consume within 3 days. Contains dairy ingredients; not suitable for people with a milk allergy.",
+        "exchangeable_products": [
+          {
+            "product_id": "200910000002",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000004": {
+        "product_id": "200910000004",
+        "product_name": "Blue Mountain flavored drip bag coffee, 30-pack",
+        "product_status": "listed",
+        "product_price": 99.0,
+        "product_description": "Drip bag coffee, 30-pack, medium roast with nutty and chocolate notes. Store at room temperature in a dry place, and brew soon after opening. People sensitive to caffeine are advised to drink it during the day.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000005": {
+        "product_id": "200910000005",
+        "product_name": "Danish Butter Cookies 908 g gift box",
+        "product_status": "listed",
+        "product_price": 118.0,
+        "product_description": "Butter cookies 908g gift box; the main ingredients are wheat flour, butter and white sugar. Shelf life 12 months; reseal after opening to keep dry. As a fragile item, transport damage is eligible for after-sales service.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000006": {
+        "product_id": "200910000006",
+        "product_name": "Instant tomato beef pasta 260g × 8 boxes",
+        "product_status": "listed",
+        "product_price": 92.0,
+        "product_description": "Instant tomato beef pasta, 8-box pack, about 260g per box. Contains wheat and dairy; those with allergies should check the ingredient list. Store at room temperature and avoid high heat and direct sunlight.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000007": {
+        "product_id": "200910000007",
+        "product_name": "Northeast Wuchang Rice 10 kg family pack",
+        "product_status": "listed",
+        "product_price": 139.0,
+        "product_description": "Wuchang Rice 10 kg family pack — whole grains with a pronounced rice aroma. After opening, keep it in a dry rice container to protect against moisture and insects. See the inkjet batch code on the packaging for the shelf life.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000008": {
+        "product_id": "200910000008",
+        "product_name": "Luhua 5S pressed Grade 1 peanut oil 5L",
+        "product_status": "listed",
+        "product_price": 159.0,
+        "product_description": "5 L first-press peanut oil, suitable for pan-frying, stir-frying and deep-frying. Store at room temperature away from light; once opened, use within 3 months. Do not consume if you are allergic to peanuts.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000009": {
+        "product_id": "200910000009",
+        "product_name": "Fresh-frozen black tiger shrimp meat 500g cold chain pack",
+        "product_status": "listed",
+        "product_price": 89.0,
+        "product_description": "Cold-chain shrimp 500g, keep frozen at -18℃ and cook as soon as possible after thawing. Allergen notice: crustacean seafood. Leakage or abnormal thawing is eligible for after-sales service under cold-chain rules.",
+        "exchangeable_products": [
+          {
+            "product_id": "200910000010",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000010": {
+        "product_id": "200910000010",
+        "product_name": "Frozen three-delicacy dumplings 1kg family pack",
+        "product_status": "listed",
+        "product_price": 39.0,
+        "product_description": "Frozen three-delicacy dumplings 1kg; store below -18℃. Contains wheat, egg and some seafood ingredients; those with allergies should check the label. Freeze immediately upon receipt.",
+        "exchangeable_products": [
+          {
+            "product_id": "200910000009",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000011": {
+        "product_id": "200910000011",
+        "product_name": "Shine Muscat green grape gift box 2kg cold chain",
+        "product_status": "out_of_stock",
+        "product_price": 128.0,
+        "product_description": "Green grape gift box 2kg, shipped via cold chain and sorted by batch ripeness. Fresh items are not eligible for no-reason returns unless there is a quality issue; compensation can be requested if the proportion of spoiled fruit exceeds the rules.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000012": {
+        "product_id": "200910000012",
+        "product_name": "Premium beef shank 1kg cold chain",
+        "product_status": "listed",
+        "product_price": 109.0,
+        "product_description": "Beef shank 1kg cold chain, vacuum packed. Recommended to portion and freeze after delivery; the taste is best within 48 hours. Bloating or off odors are quality abnormalities eligible for after-sales service.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000013": {
+        "product_id": "200910000013",
+        "product_name": "Deep-sea cod fillet 500g cold chain",
+        "product_status": "listed",
+        "product_price": 98.0,
+        "product_description": "Cod fillet 500g cold chain pack; basic de-boning has been done but fine bones may remain. Store at -18℃, and do not refreeze after thawing. Those with seafood allergies should take care.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000014": {
+        "product_id": "200910000014",
+        "product_name": "Snack gift pack, 30 packets, assorted",
+        "product_status": "listed",
+        "product_price": 119.0,
+        "product_description": "Snack gift pack with 30 packets, including nuts, puffed snacks and biscuits. The ingredients are varied; check the individual packet ingredient list. Reseal after opening to prevent moisture and oxidation.",
+        "exchangeable_products": [
+          {
+            "product_id": "200910000001",
+            "product_description": "Alternative specification in the same series",
+            "product_status": "listed"
+          }
+        ],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000015": {
+        "product_id": "200910000015",
+        "product_name": "Low-fat whole wheat bread 900 g",
+        "product_status": "listed",
+        "product_price": 46.0,
+        "product_description": "Whole wheat bread 900g, containing wheat gluten and yeast. Store at room temperature away from light; best consumed within 3 days of opening. Slight surface wrinkling is normal.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000016": {
+        "product_id": "200910000016",
+        "product_name": "Sugar-free oatmeal 1kg",
+        "product_status": "listed",
+        "product_price": 55.0,
+        "product_description": "Sugar-free oatmeal 1kg, made from oat flakes and a grain blend. Suitable for breakfast porridge or baking; keep dry to avoid moisture. Those sensitive to gluten should take care.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000017": {
+        "product_id": "200910000017",
+        "product_name": "Coconut water beverage 330ml × 12 cans",
+        "product_status": "listed",
+        "product_price": 69.0,
+        "product_description": "Coconut water 330ml × 12 cans; store at room temperature. Chilling before drinking is recommended for better flavor. If a can is bulging, leaking or smells off, do not drink it and request after-sales service.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      },
+      "200910000018": {
+        "product_id": "200910000018",
+        "product_name": "Black pepper chicken breast ready-to-eat pack 100g × 10 packs",
+        "product_status": "listed",
+        "product_price": 88.0,
+        "product_description": "Black pepper chicken breast ready-to-eat packs, 10 packs of 100g each. Store at room temperature; ready to eat when opened, or better heated. Contains soy and spices; those with sensitivities should try a small amount first.",
+        "exchangeable_products": [],
+        "gift_info": [
+          {
+            "gift_name": "Food coupon",
+            "gift_description": "Issued according to the promotion and order thresholds"
+          }
+        ],
+        "accessory_material": [],
+        "installation_notes": "Food: storage temperature, receipt and freshness instructions.",
+        "repair_notes": "Food: after-sales rules for leakage, damage, near-expiry and spoilage.",
+        "common_faults": [
+          {
+            "fault_code": "FOOD-001",
+            "fault_name": "Packaging leakage",
+            "fault_solution": "Handled according to after-sales rules"
+          }
+        ]
+      }
+    }
+  }
+}

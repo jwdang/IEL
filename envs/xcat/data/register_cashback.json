@@ -1,0 +1,8 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "rule": "This environment does not include image-verification cashback tasks; the historical registration structure is retained only for compatibility.",
+      "records": []
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "ticket_list": [
+        {
+          "ticket_id": "SVP001",
+          "user_id": "cnjd_cloth_001",
+          "type": "logistics_issue",
+          "status": "processing",
+          "notes": "Marked as signed for but not received; escalated to a specialist"
+        },
+        {
+          "ticket_id": "SVP002",
+          "user_id": "cnjd_food_004",
+          "type": "cold_chain_issue",
+          "status": "awaiting_follow_up",
+          "notes": "Abnormal temperature control; pending quality inspection review"
+        },
+        {
+          "ticket_id": "SVP003",
+          "user_id": "cnjd_food_007",
+          "type": "food_safety_complaint",
+          "status": "processing",
+          "notes": "Abnormal taste; batch number collected"
+        },
+        {
+          "ticket_id": "SVP004",
+          "user_id": "cnjd_cloth_006",
+          "type": "address_change_failed",
+          "status": "escalated",
+          "notes": "Changing the address of a shipped order requires carrier coordination"
+        }
+      ]
+    }
+  }
+}

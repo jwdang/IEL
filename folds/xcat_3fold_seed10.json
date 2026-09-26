@@ -1,0 +1,139 @@
+{
+  "name": "xcat-3fold-s10",
+  "env": "xcat",
+  "num_tasks": 60,
+  "k": 3,
+  "seed": 10,
+  "stratify": "shape",
+  "description": "3-fold cross-validation split for xcat. stratify=shape (shape = stratified by the actions+searches+outputs checkpoint shape), seed=10. Round i: grow the experience library on the other 2 folds and evaluate only on fold i.",
+  "generated_by": "python scripts/make_folds.py --env xcat --k 3 --seed 10 --stratify shape --out folds/xcat_3fold_seed10.json",
+  "folds": {
+    "fold1": [
+      0,
+      10,
+      12,
+      15,
+      17,
+      20,
+      24,
+      25,
+      27,
+      30,
+      32,
+      35,
+      37,
+      38,
+      39,
+      48,
+      50,
+      52,
+      53,
+      55
+    ],
+    "fold2": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      11,
+      13,
+      14,
+      18,
+      19,
+      22,
+      28,
+      29,
+      36,
+      42,
+      47,
+      54,
+      57
+    ],
+    "fold3": [
+      2,
+      9,
+      16,
+      21,
+      23,
+      26,
+      31,
+      33,
+      34,
+      40,
+      41,
+      43,
+      44,
+      45,
+      46,
+      49,
+      51,
+      56,
+      58,
+      59
+    ]
+  },
+  "fold_stats": {
+    "fold1": {
+      "size": 20,
+      "actions": 26,
+      "searches": 70,
+      "outputs": 0,
+      "checkpoints": 96
+    },
+    "fold2": {
+      "size": 20,
+      "actions": 25,
+      "searches": 66,
+      "outputs": 0,
+      "checkpoints": 91
+    },
+    "fold3": {
+      "size": 20,
+      "actions": 25,
+      "searches": 66,
+      "outputs": 0,
+      "checkpoints": 91
+    }
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "grow": [
+        "fold2",
+        "fold3"
+      ],
+      "test": [
+        "fold1"
+      ],
+      "grow_size": 40,
+      "test_size": 20
+    },
+    {
+      "round": 2,
+      "grow": [
+        "fold1",
+        "fold3"
+      ],
+      "test": [
+        "fold2"
+      ],
+      "grow_size": 40,
+      "test_size": 20
+    },
+    {
+      "round": 3,
+      "grow": [
+        "fold1",
+        "fold2"
+      ],
+      "test": [
+        "fold3"
+      ],
+      "grow_size": 40,
+      "test_size": 20
+    }
+  ]
+}

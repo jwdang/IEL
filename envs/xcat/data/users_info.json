@@ -1,0 +1,302 @@
+{
+  "cnjd_cloth_001": {
+    "user_id": "cnjd_cloth_001",
+    "user_name": "Clothing user 1",
+    "gender": "female",
+    "age": 23,
+    "phone_number": "13900010001",
+    "ecard_balance": 120.0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "1 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_002": {
+    "user_id": "cnjd_cloth_002",
+    "user_name": "Clothing user 2",
+    "gender": "male",
+    "age": 24,
+    "phone_number": "13900010002",
+    "ecard_balance": 140.0,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "2 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_003": {
+    "user_id": "cnjd_cloth_003",
+    "user_name": "Clothing user 3",
+    "gender": "female",
+    "age": 25,
+    "phone_number": "13900010003",
+    "ecard_balance": 160.0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "3 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_004": {
+    "user_id": "cnjd_cloth_004",
+    "user_name": "Clothing user 4",
+    "gender": "male",
+    "age": 26,
+    "phone_number": "13900010004",
+    "ecard_balance": 180.0,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "4 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_005": {
+    "user_id": "cnjd_cloth_005",
+    "user_name": "Apparel User 5",
+    "gender": "female",
+    "age": 27,
+    "phone_number": "13900010005",
+    "ecard_balance": 200.0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "5 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_006": {
+    "user_id": "cnjd_cloth_006",
+    "user_name": "Clothing user 6",
+    "gender": "male",
+    "age": 28,
+    "phone_number": "13900010006",
+    "ecard_balance": 220.0,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "6 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_007": {
+    "user_id": "cnjd_cloth_007",
+    "user_name": "Clothing user 7",
+    "gender": "female",
+    "age": 29,
+    "phone_number": "13900010007",
+    "ecard_balance": 240.0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "7 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_008": {
+    "user_id": "cnjd_cloth_008",
+    "user_name": "Clothing user 8",
+    "gender": "male",
+    "age": 30,
+    "phone_number": "13900010008",
+    "ecard_balance": 260.0,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "8 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_009": {
+    "user_id": "cnjd_cloth_009",
+    "user_name": "Apparel User 9",
+    "gender": "female",
+    "age": 31,
+    "phone_number": "13900010009",
+    "ecard_balance": 280.0,
+    "address_info": {
+      "country": "China",
+      "province": "Shanghai",
+      "city": "Shanghai",
+      "district": "Pudong New Area",
+      "street_address": "9 Jinxiu Road"
+    }
+  },
+  "cnjd_cloth_010": {
+    "user_id": "cnjd_cloth_010",
+    "user_name": "Clothing user 10",
+    "gender": "male",
+    "age": 32,
+    "phone_number": "13900010010",
+    "ecard_balance": 300.0,
+    "address_info": {
+      "country": "China",
+      "province": "Beijing",
+      "city": "Beijing",
+      "district": "Chaoyang District",
+      "street_address": "10 Jinxiu Road"
+    }
+  },
+  "cnjd_food_001": {
+    "user_id": "cnjd_food_001",
+    "user_name": "Food user 1",
+    "gender": "male",
+    "age": 25,
+    "phone_number": "13800020001",
+    "ecard_balance": 115.0,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan Province",
+      "city": "Chengdu",
+      "district": "High-tech Zone",
+      "street_address": "1 Meishi Road"
+    }
+  },
+  "cnjd_food_002": {
+    "user_id": "cnjd_food_002",
+    "user_name": "Food user 2",
+    "gender": "female",
+    "age": 26,
+    "phone_number": "13800020002",
+    "ecard_balance": 140.0,
+    "address_info": {
+      "country": "China",
+      "province": "Hubei Province",
+      "city": "Wuhan",
+      "district": "Hongshan District",
+      "street_address": "2 Meishi Road"
+    }
+  },
+  "cnjd_food_003": {
+    "user_id": "cnjd_food_003",
+    "user_name": "Food user 3",
+    "gender": "male",
+    "age": 27,
+    "phone_number": "13800020003",
+    "ecard_balance": 165.0,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan Province",
+      "city": "Chengdu",
+      "district": "High-tech Zone",
+      "street_address": "3 Meishi Road"
+    }
+  },
+  "cnjd_food_004": {
+    "user_id": "cnjd_food_004",
+    "user_name": "Food user 4",
+    "gender": "female",
+    "age": 28,
+    "phone_number": "13800020004",
+    "ecard_balance": 190.0,
+    "address_info": {
+      "country": "China",
+      "province": "Hubei Province",
+      "city": "Wuhan",
+      "district": "Hongshan District",
+      "street_address": "4 Meishi Road"
+    }
+  },
+  "cnjd_food_005": {
+    "user_id": "cnjd_food_005",
+    "user_name": "Food User 5",
+    "gender": "male",
+    "age": 29,
+    "phone_number": "13800020005",
+    "ecard_balance": 215.0,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan Province",
+      "city": "Chengdu",
+      "district": "High-tech Zone",
+      "street_address": "5 Meishi Road"
+    }
+  },
+  "cnjd_food_006": {
+    "user_id": "cnjd_food_006",
+    "user_name": "Food user 6",
+    "gender": "female",
+    "age": 30,
+    "phone_number": "13800020006",
+    "ecard_balance": 240.0,
+    "address_info": {
+      "country": "China",
+      "province": "Hubei Province",
+      "city": "Wuhan",
+      "district": "Hongshan District",
+      "street_address": "6 Meishi Road"
+    }
+  },
+  "cnjd_food_007": {
+    "user_id": "cnjd_food_007",
+    "user_name": "Food user 7",
+    "gender": "male",
+    "age": 31,
+    "phone_number": "13800020007",
+    "ecard_balance": 265.0,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan Province",
+      "city": "Chengdu",
+      "district": "High-tech Zone",
+      "street_address": "7 Meishi Road"
+    }
+  },
+  "cnjd_food_008": {
+    "user_id": "cnjd_food_008",
+    "user_name": "Food user 8",
+    "gender": "female",
+    "age": 32,
+    "phone_number": "13800020008",
+    "ecard_balance": 290.0,
+    "address_info": {
+      "country": "China",
+      "province": "Hubei Province",
+      "city": "Wuhan",
+      "district": "Hongshan District",
+      "street_address": "8 Meishi Road"
+    }
+  },
+  "cnjd_food_009": {
+    "user_id": "cnjd_food_009",
+    "user_name": "Food user 9",
+    "gender": "male",
+    "age": 33,
+    "phone_number": "13800020009",
+    "ecard_balance": 315.0,
+    "address_info": {
+      "country": "China",
+      "province": "Sichuan Province",
+      "city": "Chengdu",
+      "district": "High-tech Zone",
+      "street_address": "9 Meishi Road"
+    }
+  },
+  "cnjd_food_010": {
+    "user_id": "cnjd_food_010",
+    "user_name": "Food User 10",
+    "gender": "female",
+    "age": 34,
+    "phone_number": "13800020010",
+    "ecard_balance": 340.0,
+    "address_info": {
+      "country": "China",
+      "province": "Hubei Province",
+      "city": "Wuhan",
+      "district": "Hongshan District",
+      "street_address": "10 Meishi Road"
+    }
+  }
+}

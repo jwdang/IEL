@@ -1,0 +1,26 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "records": [
+        {
+          "after_sales_id": "ASP001",
+          "order_id": "31001000001",
+          "issue_type": "wrong_size",
+          "resolution": "exchanging"
+        },
+        {
+          "after_sales_id": "ASF001",
+          "order_id": "32012000001",
+          "issue_type": "leaking",
+          "resolution": "refunded"
+        },
+        {
+          "after_sales_id": "ASF002",
+          "order_id": "32014000002",
+          "issue_type": "near_expiry",
+          "resolution": "pending_review"
+        }
+      ]
+    }
+  }
+}

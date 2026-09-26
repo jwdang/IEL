@@ -1,0 +1,13 @@
+# Direct dependencies: the packages actually imported by the code (see the top of each module)
+langchain==0.3.25
+langchain-core==0.3.58
+langchain-mcp-adapters==0.0.10
+langchain-openai==0.3.7
+langgraph==0.3.2
+langgraph-prebuilt==0.1.1
+mcp==1.7.1
+openai==1.71.0
+pydantic
+rich
+PyYAML
+python-dotenv

@@ -1,0 +1,30 @@
+{
+  "jd": {
+    "5de650c946e7c3001814990f": {
+      "policy_name": "JD.com 618: Midea home appliance trade-in stacked with the national subsidy policy",
+      "validity": "May 24 – June 18, 2025",
+      "details": [
+        {
+          "type": "national_subsidy",
+          "description": "Buy Grade 1 energy efficiency appliances for a 20% subsidy (up to ¥2000 per item); Grade 2 energy efficiency gets a 15% subsidy (up to ¥1500)",
+          "example": "Air conditioner originally priced at ¥8000; the national subsidy reduces it by ¥1600"
+        },
+        {
+          "type": "trade_in",
+          "description": "Stackable with a JD recycling coupon worth up to ¥600 each; no brand or category restriction on the old unit",
+          "example": "Buy a ¥4199 cabinet air conditioner: first deduct a ¥600 recycling coupon, then apply the 20% national subsidy, for a final price of ¥2879"
+        },
+        {
+          "type": "platform_exclusive",
+          "description": "JD PLUS members get a '600 off 6,000' coupon, plus cross-store discounts of 50 off every 299 spent",
+          "remarks": "One day only on May 24; the offline event in Weifang also offers prizes such as an iPhone 16 in a lucky draw"
+        },
+        {
+          "type": "multi_category_discount",
+          "description": "Pro members who buy 4 categories worth 8,000 yuan pay 95% of the price (5% off); buying designated new products (such as the condensate-free water heater) stacks with other offers to save nearly 1,000 yuan"
+        }
+      ],
+      "source": "JD.com 618 national subsidy trade-in storm event — the 6 major benefits of Midea trade-in"
+    }
+  }
+}

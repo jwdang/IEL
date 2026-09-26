@@ -1,0 +1,32 @@
+{
+  "jd": {
+    "xcat_shop_001": {
+      "promotion_list": [
+        {
+          "promotion_name": "Clothing Refresh Season: ¥40 off orders over ¥300",
+          "applicable_category": "apparel",
+          "threshold": 300,
+          "discount": 40
+        },
+        {
+          "promotion_name": "Food Stock-up Festival: ¥30 off orders over ¥199",
+          "applicable_category": "food",
+          "threshold": 199,
+          "discount": 30
+        },
+        {
+          "promotion_name": "Cold-chain exclusive coupon: ¥15 off orders over ¥129",
+          "applicable_category": "food_cold_chain",
+          "threshold": 129,
+          "discount": 15
+        },
+        {
+          "promotion_name": "Member Day cross-store offer: 20 off every 200 spent",
+          "applicable_category": "whole_store",
+          "threshold": 200,
+          "discount": 20
+        }
+      ]
+    }
+  }
+}
