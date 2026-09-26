@@ -4,7 +4,8 @@ completions interface.
 The code has only two kinds of model call: a text-only LLM and an image-understanding VLM.
 The text LLM is further split by role into two sets of credentials, for the agent under test
 and the user simulator, so the two can point at different providers. Each set of credentials
-is three variables, BASE_URL + API_KEY + MODEL, corresponding to one section of .env.example.
+is three variables, BASE_URL + API_KEY + MODEL, corresponding to one section of the `.env`
+block in the README.
 """
 
 import os
@@ -55,7 +56,7 @@ def get_llm_config(role: str, model: str = "") -> LLMConfig:
     ]
     if missing:
         raise ValueError(
-            f"missing environment variables {', '.join(missing)}; please fill in .env following .env.example."
+            f"missing environment variables {', '.join(missing)}; please fill in .env following the README."
         )
     return config
 
